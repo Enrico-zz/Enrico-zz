@@ -30,4 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   
 </div><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9900EF&height=150&section=footer"/>
+
+
+
 Explorando o poder da tecnologia para transformar ideias em soluções inovadoras através da programação.
