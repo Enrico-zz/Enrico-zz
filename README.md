@@ -1,38 +1,69 @@
-###  Hello! I am Enrico Pessim 🖖
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=Enrico%20Pessim&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-pessim/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricopessim04@gmail.com)
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Enrico-zz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Enrico-zz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+### 👋 Hello, I’m Enrico Pessim  
+**Full Stack Developer | Web & Software Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrico-pessim/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enricopessim04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enrico-zz)
+
 </div>
 
-## Tecnologias utilizadas
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  
-</div><br>
+## 🚀 Sobre mim
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9900EF&height=150&section=footer"/>
+💡 Explorando o poder da tecnologia para transformar ideias em soluções reais  
+💻 Foco em **desenvolvimento web, automações e sistemas escaláveis**  
+📈 Sempre buscando performance, SEO e boas práticas de código  
 
+---
 
+## 📊 GitHub Analytics
 
-Explorando o poder da tecnologia para transformar ideias em soluções inovadoras através da programação.
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Enrico-zz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-zz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,nodejs,python,django,cpp,postgresql,git" />
+
+</div>
+
+---
+
+## 🌐 Projetos em Destaque
+
+📌 **Web & Front-end**  
+- Interfaces responsivas, mobile-first e acessibilidade  
+- Performance e SEO avançado  
+
+📌 **Back-end & APIs**  
+- Node.js, Python, Django, PHP 
+- Integrações, automações e arquitetura escalável  
+
+📌 **🤖 AI & Automations (Loading...)**  
+- Automações com **n8n**  
+- Orquestração com **LangChain**  
+- Criação de **Agentes de IA** para tarefas, dados e workflows  
+- Integrações entre APIs, IA e sistemas internos  
+
+---
+
+“Transformando ideias em soluções através da programação.”
+
+---
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0D3B66&height=140&section=footer"/>
+
